@@ -8,9 +8,9 @@ Esta edição é independente da Hitori Comercial: possui versão, executável, 
 
 Abra a [release mais recente](https://github.com/PeteerPT/Hitori-Laboratory-Releases/releases/latest), descarregue o ZIP de instalação x64, extraia a pasta completa e execute `HitoriLab.exe`.
 
-Download atual: [Hitori Laboratório 0.14.3 x64](https://github.com/PeteerPT/Hitori-Laboratory-Releases/releases/download/v0.14.3/Hitori-Laboratorio-0.14.3-win-x64.zip)
+Download atual: [Hitori Laboratório 0.14.4 x64](https://github.com/PeteerPT/Hitori-Laboratory-Releases/releases/download/v0.14.4/Hitori-Laboratorio-0.14.4-win-x64.zip)
 
-SHA-256: `98CDF30BFF23A9CF3A5AB899DE618B6104787B42467DA448828A731525099BF0`
+SHA-256: `DA666338BDFDB783E610EEB1200D0BD8B6E1DA85D943D652168B3D22AA54B458`
 
 Não desative o antivírus, SmartScreen ou outras proteções do Windows. Confirme o hash publicado em `SHA256SUMS.txt`.
 
